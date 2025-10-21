@@ -19,8 +19,8 @@ Aplikasi backend sederhana berbasis **Node.js + Express + PostgreSQL** yang meng
 - npm start
 
 📄 Dokumentasi API (with Postman)
-Post  api/auth/register   -> register new user
-Post  api/auth/login      -> login user
-Get   api/users           -> get all users
-Put   api/users/profile   -> update profile
-Post  api/users/avatar    -> upload avatar
+- Post  api/auth/register   -> register new user
+- Post  api/auth/login      -> login user
+- Get   api/users           -> get all users
+- Put   api/users/profile   -> update profile
+- Post  api/users/avatar    -> upload avatar
